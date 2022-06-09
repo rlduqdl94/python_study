@@ -1,0 +1,8 @@
+//라이브러리 설치
+!pip install pyinstaller
+
+
+// Iron_Man_icon-icons.com_54170.ico 아이콘이름
+
+//Stark.py 파이선 이름
+!pyinstaller --noconsole --onefile --icon=Iron_Man_icon-icons.com_54170.ico Stark.py
